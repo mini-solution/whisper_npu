@@ -14,7 +14,9 @@ pip install -r requirements.txt
 
 
 #### 运行
-At the command prompt, enter
+- npu 在npu上运行
+- wav_path 音频文件
+
 ```sh
 python -m amd_whisper --npu --wav_path ./test.wav
 ```
