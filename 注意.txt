@@ -1,0 +1,5 @@
+// 特别依赖
+pip install torch==2.8.0 torchaudio==2.8.0 torchcodec==0.8.0
+
+// ffmpeg为版本7 
+// 下载程序包，解压，放到 program-files下，设置系统环境变量
