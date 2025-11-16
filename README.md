@@ -1,5 +1,7 @@
 #### 安装conda
 #### 安装Ryzen AI
+[ryzen ai安装](https://ryzenai.docs.amd.com/en/latest/inst.html)
+
 #### 切换环境
 ```sh
 conda activate ryzen-ai-1.6.0
