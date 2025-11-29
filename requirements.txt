@@ -1,4 +1,3 @@
 numpy
 torchaudio
-onnxruntime
 transformers
